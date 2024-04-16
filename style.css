@@ -1707,6 +1707,14 @@ body {
 
   #es-garnier.es-garnier .es-routine {
     position: relative;
+    margin-bottom: 50px;
+  }
+  #es-garnier.es-garnier .es-routine__steps {
+    margin-top: -100px;
+  }
+
+  #es-garnier.es-garnier .es-routine__step {
+    margin-top: 150px;
   }
 
   #es-garnier.es-garnier .es-routine::after {
@@ -1716,7 +1724,7 @@ body {
     height: 2px;
     color: #c64a4a;
     background: #c64a4a;
-    top: 66%;
+    top: 74%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
