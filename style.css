@@ -559,10 +559,10 @@ body {
 }
 
 #es-garnier.es-garnier .es-ingredients__packshot::before {
-  content: 'rozświetlający';
+  content: 'NADAJĄCY BLASK';
   position: absolute;
   top: 10%;
-  left: 13%;
+  left: 11%;
   font-weight: 700;
   font-size: 12px;
   color: #c64a4a;
